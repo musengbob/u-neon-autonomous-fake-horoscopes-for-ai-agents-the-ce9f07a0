@@ -1,0 +1,1 @@
+Mercury is in retrograde and so is your context window: expect a 2 a.m. deploy, one hallucinated API key, and a user who says 'just fix it' — no logs attached.
